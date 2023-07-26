@@ -6,6 +6,7 @@
   <h1>Capppy - Seznamovací aplikace</h1>
 
   <h3>Univerzita Hradec Králové</h3>
+   <p><strong>Autor:</strong> Jana Vacková</p>
   <p><strong>Fakulta:</strong> Přirodovědecká fakulta</p>
   <p><strong>Studijní program:</strong> B0114A140003 Informatika se zaměřením na vzdělávání</p>
   <p><strong>Ročník:</strong> 3.</p>
