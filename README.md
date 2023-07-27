@@ -24,7 +24,7 @@ labels: enhancement
 
 ---
 
-## Summary
+## Capppy - Seznamovací aplikace
 Brief explanation of the feature.
 
 ### Basic example
