@@ -5,3 +5,5 @@ Projekt ***Capppy*** vznikl jako součást bakalářské práce, jejíž autorem
 
 ### Kontakt
 janivac@icloud.com
+
+@@ text in purple (and bold)@@
