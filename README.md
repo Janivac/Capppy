@@ -6,4 +6,4 @@ Projekt ***Capppy*** vznikl jako součást bakalářské práce, jejíž autorem
 ### Kontakt
 janivac@icloud.com
 
-<code style="color : pink">text</code>
+<code style="color : cyan">text</code>
